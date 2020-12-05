@@ -7,11 +7,18 @@ My own personal experience: I come from a farmer family. My uncle owns a 25 acre
 <p align="center">
 <img src="https://github.com/pdesai878/Crop-Advisory-for-Farmers/blob/main/images/Farmer.png">
 </p>
+<br><br><hr>
   
 So we intend to make a system which will solve the above issue.
+<br><br><hr>
 
 <b> SYSTEM ARCHITECTURE </b>
 <img src="https://github.com/pdesai878/Crop-Advisory-for-Farmers/blob/main/images/System%20Architecture.png">
+<br><br><hr>
+
+<b> SCREENSHOT </b>
+<img src="https://github.com/pdesai878/Crop-Advisory-for-Farmers/blob/main/images/Screenshot.png">
+<br><br><hr>
   
   
 

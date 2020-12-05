@@ -1,1 +1,7 @@
 # Crop-Advisory-for-Farmers
+
+Problem Statement: Agriculture/Farming is the backbone of our country, sufficing the needs of over 1.3 billion people. Today one of the most tragic challenge which farmers of our country face is to determine which crop is most suitable and profitable for his land, for his soil.
+
+My own personal experience: I come from a farmer family. My uncle owns a 25 acre land. Last year he invested in rice and today he has a debt of around 10 lakhs. Why this is happening? This is happening because Weather and soil attributes change over time and farmer today relies either on past experience or advises of other farmers. This is leading them to great loses.
+
+So we intend to make a system which will solve the above issue.

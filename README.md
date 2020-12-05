@@ -9,6 +9,7 @@ My own personal experience: I come from a farmer family. My uncle owns a 25 acre
 So we intend to make a system which will solve the above issue.
 
 <b> SYSTEM ARCHITECTURE </b>
+<img src="https://github.com/pdesai878/Crop-Advisory-for-Farmers/blob/main/images/System%20Architecture.png">
   
   
 

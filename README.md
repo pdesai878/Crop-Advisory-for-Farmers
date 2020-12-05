@@ -14,7 +14,31 @@ So we intend to make a system which will solve the above issue.
 
 <b> SYSTEM ARCHITECTURE </b>
 <img src="https://github.com/pdesai878/Crop-Advisory-for-Farmers/blob/main/images/System%20Architecture.png">
-<br><br><hr>
+<br><br> <hr>
+
+
+<table>
+  <tr>
+    <td> <b> Key Technologies: </b></td>
+   </tr>
+  
+  <tr> <td><b> Programming Language: </b></td>
+    <td> Python</td></tr>
+    
+  <tr> <td><b> Framework: </b></td>
+    <td> Streamlit </td></tr>
+  
+  <tr> <td><b> Web Technologies: </b></td>
+    <td> HTML5 </td>
+    <td> CSS3 </td>
+    </tr>
+   <tr> <td><b> Modelling: </b></td>
+    <td> Scikit-learn </td></tr>
+    tr> <td><b> Data Analysis: </b></td>
+    <td> Pandas </td>
+    <td> Numpy </td></tr>
+    </table>
+  </h3>
 
 <b> SCREENSHOT </b>
 <img src="https://github.com/pdesai878/Crop-Advisory-for-Farmers/blob/main/images/Screenshot.png">

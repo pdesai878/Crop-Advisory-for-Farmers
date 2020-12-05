@@ -19,7 +19,7 @@ So we intend to make a system which will solve the above issue.
 <table>
 <h3>
 
-<td> <b> Key Technologies: </b></td>
+<th> <b> Key Technologies: </b></th>
 
 
 <tr> <td><b> Programming Language: </b></td>
